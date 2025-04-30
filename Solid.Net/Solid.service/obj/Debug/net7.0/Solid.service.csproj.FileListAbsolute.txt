@@ -1,0 +1,15 @@
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\bin\Debug\net7.0\Solid.service.deps.json
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\bin\Debug\net7.0\Solid.service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\bin\Debug\net7.0\Solid.service.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.AssemblyInfoInputs.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.AssemblyInfo.cs
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\refint\Solid.service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\ref\Solid.service.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\bin\Debug\net7.0\Solid.Core.dll
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\bin\Debug\net7.0\Solid.Core.pdb
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.csproj.AssemblyReference.cache
+C:\Users\משתמש\Documents\יד\c#\שב\שיעור 20\Solid.Net\Solid.service\obj\Debug\net7.0\Solid.service.csproj.CopyComplete
